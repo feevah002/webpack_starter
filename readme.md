@@ -2,25 +2,36 @@ Frontend environment for building JavaScript applications
 
 Includes the following features...
 
-Babel Loader
-Sass Loader With Dart Sass
-HTMLWebpackPlugin
-WebpackDevServer
-Asset Resource Loader
-Source Maps
-Caching 
+<ul>
+<li>Babel Loader</li> 
+<li>Sass Loader With Dart Sass</li> 
+<li>HTMLWebpackPlugin</li> 
+<li>WebpackDevServer</li> 
+<li>Asset Resource Loader</li> 
+<li>Source Maps</li> 
+<li>Caching</li> 
+</ul>
 
-Usage
-Run Dev Server (Port 3000)
+<h1>Usage</h1>
+<div>Run Dev Server (Port 3000)</div>
+<br>
 
-  npm run dev
+`
+npm run dev
+` 
 
-Build for production
-  npm run build
-  
-Demo App
+<h1>Build for production</h1>
+<br>
+
+ `
+ npm run build
+ ` 
+
+<h1>Demo App</h1>
 The demo app is a very simple Joke generator. Replace with your own code and install other packages as needed
-
-index.js (main javascript)
-template.html (template)
-styles/main.scss (styles)
+<br>
+<ul>
+<li>index.js (main javascript)</li>
+<li>template.html (template)</li>
+<li>styles/main.scss (styles)</li>
+</ul>
